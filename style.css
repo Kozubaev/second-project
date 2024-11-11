@@ -1,0 +1,39 @@
+
+.card{
+    position: relative;
+    top: 100px;
+    gap: 100px;
+    width: 2300px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+   border-style: double;
+   color: tan;
+}
+
+
+.title img{
+    width: 400px;
+    height: 400px;
+}
+
+.title h3{
+    position: relative;
+    top: 480px;
+    left: 160px;
+    color: brown;
+    font-size: 25px;
+}
+
+.title p{
+    position: relative;
+    font-size: 25px;
+    top: 70px;
+    left: 20px;
+    color: blue;
+}
